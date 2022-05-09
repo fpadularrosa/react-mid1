@@ -1,0 +1,4 @@
+export const GET_ARTICLES_BY_NAME = 'GET_ARTICLES_BY_NAME';
+export const GET_RELEVANT = 'GET_RELEVANT';
+export const GET_ARTICLES = 'GET_ARTICLES';
+export const GET_DETAILS = 'GET_DETAILS';
